@@ -4,3 +4,4 @@ sentencepiece==0.1.97
 torch==2.0.0
 torchaudio==2.0.1
 torchvision==0.15.1
+opencv-python==4.7.0.72
